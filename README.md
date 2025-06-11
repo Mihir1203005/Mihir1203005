@@ -37,8 +37,8 @@ I’m a self-taught web developer with a focus on creating modern, responsive we
 
 ## 📫 Connect with Me
 
-- 📧 Email: yourname@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- 📧 Email: mihirahire70@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/Mihir Ahire](https://www.linkedin.com/in/mihir-ahire-2a36a22b1/)
 - 🧠 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
 
 ---
